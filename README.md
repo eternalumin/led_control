@@ -4,21 +4,7 @@ LED Control System with MBED & CMSIS (Simulation)
 This project demonstrates multi-mode LED control, interrupt-driven button handling, and modular bare-metal design principles—structured like production firmware.
 
 
----
 
-📂 Project Structure
-
-LED_Control_MBED_CMSIS/
-│── src/
-│   ├── main.cpp              # Main application loop
-│   ├── led_controller.cpp    # LED control implementation
-│   ├── led_controller.h      # LED control interface
-│   ├── button_handler.cpp    # Button interrupt & debounce logic
-│   ├── button_handler.h      # Button handler interface
-│   ├── system_logger.cpp     # Logger for debug & telemetry
-│   ├── system_logger.h       # Logger interface
-│── README.md                 # Project documentation
-│── LICENSE                   # MIT License
 
 
 ---
